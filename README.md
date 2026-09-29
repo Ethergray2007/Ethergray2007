@@ -7,22 +7,22 @@
 <h3>「 讲话太难懂了，我画出来给你看看。 」</h3>
 <sub>— 夕 Dusk</sub>
 
-</div>
+<br />
 
-<img align="right" width="26%" src="assets/dusk.png" alt="夕" />
+<img src="assets/dusk-chibi.png" width="42%" alt="夕" />
+
+</div>
 
 <br />
 
 <pre>
-    🎨  方向   计算机图形学 · 渲染
-    💻  技术   C / C++ · OpenGL · 3D 数学 · 算法
-    📖  在学   AI · 数字人 · HCI · 具身智能
-    🎮  兴趣   动漫 · 游戏 · 明日方舟
+    🎨  方向    计算机图形学 · 渲染
+    💻  技术    C/C++ · OpenGL · 3D 数学
+    📖  在学    AI · 数字人 · HCI
+    🎮  兴趣    动漫 · 游戏 · 明日方舟
 </pre>
 
-<br clear="right" />
-
-<h3 align="center">📜 笔墨</h3>
+<h3 align="center">📜 笔墨 · Tools</h3>
 
 <div align="center">
 
@@ -38,7 +38,7 @@
 
 </div>
 
-<h3 align="center">🏮 门</h3>
+<h3 align="center">🏮 门 · Find Me</h3>
 
 <div align="center">
 
@@ -50,14 +50,14 @@
 
 <br />
 
-<img src="assets/ink-line.png" width="420" alt="" />
+<img src="assets/ink-line.png" width="70%" alt="" />
 <br />
-<img src="assets/dusk-art.png" width="320" alt="夕" />
+<img src="assets/dusk-art.png" width="46%" alt="夕" />
 <br /><br />
 <sub>♪ 一画一世界，一帧一光阴。</sub>
 <br /><br />
 <img src="https://komarev.com/ghpvc/?username=Ethergray2007&color=5F9EA0&style=flat-square&label=访客" alt="访客" />
 <br /><br />
-<sub>《明日方舟》© 鹰角网络 · 立绘来自游戏</sub>
+<sub>插画 by <a href="https://www.pixiv.net/artworks/89260559">大雄</a> · Pixiv</sub>
 
 </div>
