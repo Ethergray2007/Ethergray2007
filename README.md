@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=3000&pause=800&color=5F9EA0&center=true&vCenter=true&width=820&lines=Hello%2C+I%27m+ETHERGRAY+%E2%9C%A8;Computer+Graphics+%C2%B7+Rendering;Arknights+%E2%99%AA+Programming" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=3000&pause=800&color=5F9EA0&center=true&vCenter=true&width=820&lines=Hello%2C%20I%27m%20ETHERGRAY%20%E2%9C%A8;%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%20%C2%B7%20%E6%B8%B2%E6%9F%93;%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%20%E2%99%AA%20%E4%BB%A5%E7%A0%81%E4%BD%9C%E7%94%BB" alt="Typing SVG" />
 
 <br />
 
@@ -9,20 +9,20 @@
 
 </div>
 
-<img align="right" width="26%" src="assets/dusk.png" alt="Dusk" />
+<img align="right" width="26%" src="assets/dusk.png" alt="夕" />
 
 <br />
 
 <pre>
-    Focus     Computer Graphics · Rendering
-    Stack     C / C++ · OpenGL · 3D Math · Algorithms
-    Learning  AI · Digital Human · HCI · Embodied AI
-    Likes     Anime · Games · Arknights
+    🎨  方向   计算机图形学 · 渲染
+    💻  技术   C / C++ · OpenGL · 3D 数学 · 算法
+    📖  在学   AI · 数字人 · HCI · 具身智能
+    🎮  兴趣   动漫 · 游戏 · 明日方舟
 </pre>
 
 <br clear="right" />
 
-<h3 align="center">🖋️ 笔墨 · Tools</h3>
+<h3 align="center">📜 笔墨</h3>
 
 <div align="center">
 
@@ -38,11 +38,11 @@
 
 </div>
 
-<h3 align="center">🏮 门 · Find Me</h3>
+<h3 align="center">🏮 门</h3>
 
 <div align="center">
 
-[![](https://img.shields.io/badge/Blog-5F9EA0?style=for-the-badge&logo=astro&logoColor=white)](https://ethergray.netlify.app/) [![](https://img.shields.io/badge/GitHub-5F9EA0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ethergray2007) [![](https://img.shields.io/badge/X-5F9EA0?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ethergray2007)
+[![](https://img.shields.io/badge/博客-5F9EA0?style=for-the-badge&logo=astro&logoColor=white)](https://ethergray.netlify.app/) [![](https://img.shields.io/badge/GitHub-5F9EA0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ethergray2007) [![](https://img.shields.io/badge/X-5F9EA0?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ethergray2007)
 
 </div>
 
@@ -52,14 +52,12 @@
 
 <img src="assets/ink-line.png" width="420" alt="" />
 <br />
-<img src="assets/dusk-art.png" width="320" alt="Dusk" />
+<img src="assets/dusk-art.png" width="320" alt="夕" />
 <br /><br />
 <sub>♪ 一画一世界，一帧一光阴。</sub>
 <br /><br />
-<img src="https://komarev.com/ghpvc/?username=Ethergray2007&color=5F9EA0&style=flat-square&label=VISITORS" alt="Visitors" />
-
+<img src="https://komarev.com/ghpvc/?username=Ethergray2007&color=5F9EA0&style=flat-square&label=访客" alt="访客" />
 <br /><br />
-
-<sub>Arknights © Hypergryph · Dusk artwork from the game</sub>
+<sub>《明日方舟》© 鹰角网络 · 立绘来自游戏</sub>
 
 </div>
