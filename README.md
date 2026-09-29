@@ -14,10 +14,10 @@
 <br />
 
 <pre>
-    🖌️  CS Student · Computer Graphics · Rendering
-    ⚔️  C / C++ · OpenGL · 3D Math · Algorithms
-    📖  Learning AI · Digital Human · HCI · Embodied AI
-    🍵  Anime · Games · Arknights
+    Focus     Computer Graphics · Rendering
+    Stack     C / C++ · OpenGL · 3D Math · Algorithms
+    Learning  AI · Digital Human · HCI · Embodied AI
+    Likes     Anime · Games · Arknights
 </pre>
 
 <br clear="right" />
@@ -55,8 +55,6 @@
 <img src="assets/dusk-art.png" width="320" alt="Dusk" />
 <br /><br />
 <sub>♪ 一画一世界，一帧一光阴。</sub>
-<br /><br />
-<img src="assets/seal.png" width="72" alt="夕" />
 <br /><br />
 <img src="https://komarev.com/ghpvc/?username=Ethergray2007&color=5F9EA0&style=flat-square&label=VISITORS" alt="Visitors" />
 
