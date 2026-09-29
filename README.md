@@ -9,7 +9,7 @@
 
 <br />
 
-<img src="https://cdn.jsdelivr.net/gh/Ethergray2007/Ethergray2007@main/assets/dusk-chibi.gif" width="30%" alt="夕" />
+<img src="https://cdn.jsdelivr.net/gh/Ethergray2007/Ethergray2007@main/assets/dusk-chibi.png" width="42%" alt="夕" />
 
 </div>
 
