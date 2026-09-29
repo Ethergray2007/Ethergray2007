@@ -56,6 +56,5 @@
 <br /><br />
 <sub>♪ 一画一世界，一帧一光阴。</sub>
 <br /><br />
-<sub>插画 by <a href="https://www.pixiv.net/artworks/89260559">大雄</a> · Pixiv</sub>
 
 </div>
