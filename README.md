@@ -1,33 +1,29 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=3000&pause=800&color=39C5BB&center=true&vCenter=true&width=820&lines=Hello%2C+I%27m+ETHERGRAY+%E2%9C%A8;Computer+Graphics+%C2%B7+Rendering;%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+%E2%99%AA+Programming" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=3000&pause=800&color=5F9EA0&center=true&vCenter=true&width=820&lines=Hello%2C+I%27m+ETHERGRAY+%E2%9C%A8;Computer+Graphics+%C2%B7+Rendering;Arknights+%E2%99%AA+Programming" alt="Typing SVG" />
 
 </div>
 
-<img align="right" width="26%" src="assets/miku.png" alt="Hatsune Miku" />
+<img align="right" width="26%" src="assets/dusk.png" alt="Dusk" />
 
 <br />
 
 <pre>
-    💻 CS Student · Computer Graphics · Rendering
-    🎨 C / C++ · OpenGL · 3D Math · Algorithms
-    📖 Learning AI · Digital Human · HCI · Embodied AI
-    🎮 Anime · Games · Hatsune Miku
+    🖌️  CS Student · Computer Graphics · Rendering
+    ⚔️  C / C++ · OpenGL · 3D Math · Algorithms
+    📖  Learning AI · Digital Human · HCI · Embodied AI
+    🍵  Anime · Games · Arknights
 </pre>
 
 <br clear="right" />
 
-<h3 align="center">🌱 These Days</h3>
+<h3 align="center">「 讲话太难懂了，我画出来给你看看。 」</h3>
 
 <div align="center">
-
-`3D Math` → `Graphics` → `Rendering`
-
-CPU Renderer · OpenGL · AtCoder
-
+<sub>— 夕 Dusk</sub>
 </div>
 
-<h3 align="center">🛠️ Languages & Tools</h3>
+<h3 align="center">🛠️ Languages &amp; Tools</h3>
 
 <div align="center">
 
@@ -35,21 +31,11 @@ CPU Renderer · OpenGL · AtCoder
 
 </div>
 
-<h3 align="center">📦 Projects</h3>
+<h3 align="center">🔗 Find Me</h3>
 
 <div align="center">
 
-CPU Software Renderer · Real-time Rendering · Algorithm Practice
-
-</div>
-
-<h3 align="center">🚀 Future</h3>
-
-<div align="center">
-
-`Rendering` → `Digital Human` → `Embodied AI`
-
-<sub>Building intelligent beings that can see, speak and interact.</sub>
+[![](https://img.shields.io/badge/Blog-5F9EA0?logo=astro&logoColor=white)](https://ethergray.netlify.app/) [![](https://img.shields.io/badge/GitHub-5F9EA0?logo=github&logoColor=white)](https://github.com/Ethergray2007) [![](https://img.shields.io/badge/X-5F9EA0?logo=x&logoColor=white)](https://x.com/Ethergray2007)
 
 </div>
 
@@ -57,18 +43,14 @@ CPU Software Renderer · Real-time Rendering · Algorithm Practice
 
 <br />
 
-<img src="assets/miku.gif" width="200" alt="Hatsune Miku" />
+<img src="assets/dusk-art.png" width="320" alt="Dusk" />
 
 <br /><br />
 
-[![](https://img.shields.io/badge/GitHub-39C5BB?logo=github&logoColor=white)](https://github.com/Ethergray2007) [![](https://img.shields.io/badge/AtCoder-39C5BB?logo=atcoder&logoColor=white)](https://atcoder.jp/users/Ethergray2007)
-
-<br />
-
-<sub>♪ World is colorful, one frame at a time.</sub>
+<sub>♪ 一画一世界，一帧一光阴。</sub>
 
 <br /><br />
 
-<sub>Hatsune Miku artwork: Crypton Future Media, Inc. / Art by KEI.</sub>
+<sub>Arknights © Hypergryph · Dusk artwork from the game</sub>
 
 </div>
